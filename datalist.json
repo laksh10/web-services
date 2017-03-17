@@ -1,0 +1,147 @@
+{
+"GetCategoryResult":[
+{"category_id":1,
+  "category_name":"HTML",
+  "category_url":"html"},
+  
+{"category_id":2,
+    "category_name":"CSS",
+	 "category_url":"css"},
+	 
+{"category_id":3,
+	    "category_name":"Bootstrap",
+		  "category_url":"bootstrap"},
+		     
+{"category_id":4,
+	"category_name":"JavaScript",
+	"category_url":"javascript"},
+	
+{"category_id":5,
+   "category_name":"AngularJs",
+    "category_url":"angularjs"},
+	
+{"category_id":6,
+  "category_name":"XML",
+  "category_url":"xml"},
+  
+{"category_id":12,
+   "category_name":"Jquery",
+   "category_url":"jquery"},
+   
+{"category_id":16,
+  "category_name":"Ebooks Content",
+   "category_url":"ebooks-content"},
+   
+{"category_id":17,
+   "category_name":"Article Submission",
+    "category_url":"article-submission"},
+	
+{"category_id":19,
+   "category_name":"AngularJs",
+   "category_url":"angularjs"},
+   
+{"category_id":20,
+   "category_name":"JavaScript",
+    "category_url":"javascript"},
+	
+{"category_id":23,
+  "category_name":"Interview Questions",
+   "category_url":"interview-questions"},
+   
+{"category_id":24,
+  "category_name":"Bootstrap",
+   "category_url":"bootstrap"},
+   
+{"category_id":25,
+  "category_name":"XML",
+   "category_url":"xml"},
+   
+{"category_id":26,
+  "category_name":"CSS",
+   "category_url":"css"},
+   
+{"category_id":27,
+  "category_name":"JQuery",
+    "category_url":"jquery"},
+	
+{"category_id":28,
+   "category_name":"General Questions",
+   "category_url":"general-questions"},
+   
+{"category_id":29,
+   "category_name":"NodeJs",
+   "category_url":"nodejs"},
+   
+{"category_id":30,
+   "category_name":"HTML",
+   "category_url":"html"},
+   
+ {"category_id":31,
+   "category_name":"Quality Assurance",
+   "category_url":"quality-assurance"},
+   
+ {"category_id":32,
+    "category_name":"Business Analyst",
+	 "category_url":"business-analyst"},
+	 
+{"category_id":89,
+  "category_name":"Java",
+   "category_url":"java"},
+   
+{"category_id":90,
+  "category_name":"Approved Article List",
+   "category_url":"approved-article-list"},
+   
+ {"category_id":91,
+    "category_name":"Disapproved Articles List",
+	"category_url":"disapproved-articles-list"},
+	
+{"category_id":92,
+  "category_name":"SQL Server DBA",
+  "category_url":"sql-server-dba"},
+  
+{"category_id":93,
+  "category_name":"Articles Report",
+   "category_url":"articles-report"},
+  
+{"category_id":94,
+  "category_name":"User Control",
+   "category_url":"user-control"},
+   
+{"category_id":95,
+  "category_name":"Menu Control",
+    "category_url":"menu-control"},
+	
+{"category_id":96,
+  "category_name":"Ebooks Chapter",
+  "category_url":"ebooks-chapter"},
+  
+{"category_id":97,
+  "category_name":"Exception Log",
+   "category_url":"exception-log"},
+   
+{"category_id":98,
+  "category_name":"GIT Control",
+  "category_url":"git-control"},
+  
+{"category_id":99,
+  "category_name":"React Js",
+  "category_url":"react-js"},
+  
+{"category_id":100,
+  "category_name":"Profile",
+    "category_url":"profile"},
+	
+{"category_id":101,
+  "category_name":"Logout",
+   "category_url":"logout"},
+   
+{"category_id":102,
+  "category_name":"C Sharp.Net",
+  "category_url":"c-sharp.net"},
+  
+ {"category_id":103, 
+   "category_name":"Change Password",
+    "category_url":"change-password"}
+	
+	]}
